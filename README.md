@@ -1,5 +1,4 @@
 # HelloID-Conn-Prov-Fixed-Data
-Template repository for HelloID Provisioning Target Connector
 
 <a href="https://github.com/Tools4everBV/HelloID-Conn-Prov-Source-Fixed-Data/network/members"><img src="https://img.shields.io/github/forks/Tools4everBV/HelloID-Conn-Prov-Source-Fixed-Data" alt="Forks Badge"/></a>
 <a href="https://github.com/Tools4everBV/HelloID-Conn-Prov-Source-Fixed-Data/pulls"><img src="https://img.shields.io/github/issues-pr/Tools4everBV/HelloID-Conn-Prov-Source-Fixed-Data" alt="Pull Requests Badge"/></a>
@@ -8,7 +7,7 @@ Template repository for HelloID Provisioning Target Connector
 
 | :warning: Warning                                                                         |
 | :---------------------------------------------------------------------------------------- |
-| This is a template repository. Please make sure you to change the scripts accordingly. |
+| This is a template repository. Please make sure to change the scripts accordingly. |
 
 | :information_source: Information                                                         |
 | :--------------------------------------------------------------------------------------- |
