@@ -24,17 +24,14 @@ Template repository for HelloID Provisioning Target Connector
 - [HelloID-Conn-Prov-Target-Template](#helloid-conn-prov-HR-Generator)
   - [Versioning](#versioning)
   - [Table of Contents](#table-of-contents)
-  - [Requirements](#requirements)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
-  - [Remarks](#remarks)
   - [Getting help](#getting-help)
   - [HelloID Docs](#helloid-docs)
 
-## Requirements
-
 ## Introduction
 
+This repository contains scripts with fixed user data.
 
 | Action | Action(s) Performed | Comment |
 | ------ | ------------------- | ------- |
@@ -43,7 +40,7 @@ Template repository for HelloID Provisioning Target Connector
 
 ## Getting Started
 
-## Remarks
+The system can be used as is. More data can manually be added by expanding the person.ps1 and department.ps1 scripts.
 
 ## Getting help
 > _For more information on how to configure a HelloID PowerShell connector, please refer to our [documentation](https://docs.helloid.com/en/provisioning/source-systems.html) pages_
