@@ -11,7 +11,7 @@
 ## Versioning
 | Version | Description     |
 | ------- | --------------- |
-| v1.0.0-alpha   | Initial release |
+| v1.0.0   | Initial release |
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
