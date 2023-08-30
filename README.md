@@ -11,6 +11,7 @@
 ## Versioning
 | Version | Description     |
 | ------- | --------------- |
+| v1.0.4   | Added Icon |
 | v1.0.0   | Initial release |
 
 <!-- TABLE OF CONTENTS -->
